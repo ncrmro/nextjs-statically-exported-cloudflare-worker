@@ -1,0 +1,9 @@
+name = "nextjs-service-worker"
+type = "javascript"
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+
+[site]
+bucket = "./out"
