@@ -10,3 +10,13 @@ yarn global add @cloudflare/wrangler
 ```bash
 wrangler login
 ```
+
+## Building & Publishing
+
+```bash
+yarn build
+```
+
+```bash
+yarn pub
+```
