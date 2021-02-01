@@ -11,6 +11,8 @@ yarn global add @cloudflare/wrangler
 wrangler login
 ```
 
+You will also need to set your `account` and `zone` ids in the wrangler.toml.
+
 ## Building & Publishing
 
 ```bash
